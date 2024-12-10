@@ -26,27 +26,16 @@ The project uses a publicly available dataset for spam email classification, suc
  **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/spam-email-classification.git
+   git clone https://github.com/Vaishnavi-M-1909/Spam-mail
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd spam-email-classification
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
+2. Go to Google colab and upload the notebook
+3. Upload dataset in the notebook
+  
 
  **Usage**
 1. **Prepare the Dataset:**
    - Place your dataset file (`spam.csv`)
-2. **Run the Project:**
-   ```bash
-   python main.py
-   ```
-3. **Output:**
+2. **Output:**
    - The system will preprocess the dataset, train the model, and display evaluation metrics.
 
 
